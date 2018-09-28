@@ -33,5 +33,14 @@
   "engines": {
     "node": ">= 4.0"
   },
-  "private": true
+  "private": true,
+  "dependencies": {
+    "@css-blocks/glimmer": "^0.19.0",
+    "broccoli-merge-trees": "^3.0.1",
+    "broccoli-rollup": "^2.1.1",
+    "rollup-plugin-typescript2": "^0.17.0",
+    "route-recognizer": "^0.3.4",
+    "router_js": "^5.0.1",
+    "rsvp": "^4.8.4"
+  }
 }
